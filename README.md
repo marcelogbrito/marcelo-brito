@@ -20,4 +20,4 @@ Sou Marcelo Brito. Desenvolvo software em diversas linguagens, plataformas e fra
 
 ### Contato
 
-Fale comigo [por email](mailto:marcelogbrito@gmail.com) ou [whatsapp 11-99134-1989](https://api.whatsapp.com/send?phone=5511991341989&text=sua%20mensagem).
+Fale comigo [por email](mailto:marcelogbrito@gmail.com) ou [whatsapp 61-99422-8085](https://api.whatsapp.com/send?phone=5561994228085&text=sua%20mensagem).
